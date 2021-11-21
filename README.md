@@ -12,6 +12,27 @@ Here you can view code from our youtube videos
 
 **Visit our youtube [channel]**
 
+all projects are open source, so you can use them for your own purposes. !BUT
+we are not responsible for the actions you take (including actions using our code).
+
+In the future, the languages of the projects will increase.
+
+Project stack:
+```
+     -Python
+     -JavaScript
+```
+In the plans:
+```
+     -Kotlin/Java
+     -Esoteric programming languages (beef/brainfuck/LOLCODE) 
+     -Groovy
+     -Rerl/Raku
+```  
+If you are such a developer and would like to publish your projects under the auspices of our organization - then write to the corporate mail indicated in the header of the organization. We will be glad to everyone!
+  
+
+
    [python]: <https://github.com/dimkarpenko/OnCode/tree/main/Python>
    [ping-pong]: <https://github.com/dimkarpenko/OnCode/tree/main/Python/Ping-Pong>
    [pyowm]: <https://github.com/dimkarpenko/OnCode/tree/main/Python/PyOWM>
